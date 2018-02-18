@@ -1,0 +1,32 @@
+[
+    {
+      "id": 7856278,
+      "accountNumber": "123456789-1",
+      "subAccountNumber": "01",
+      "lastUpdateat": "2013-04-28T12:13:22Z",
+      "accountOwner": "ACME Company Inc.",
+      "currency": "EUR",
+      "bankname": "Deutsche Bank",
+      "bankcode": "30070024",
+      "balance": 24323.49,
+      "accessType": "HBCI",
+      "accountType": "Kontokorrentkonto",
+      "iban": "DE04300700240001234501",
+      "bic": "DEUTDEDBDUE"
+    },
+    {
+      "id": 7856279,
+      "accountNumber": "123456789-2",
+      "subAccountNumber": "02",
+      "lastupdateat": "2013-04-28T12:16:22Z",
+      "accountOwner": "ACME Company Inc.",
+      "currency": "EUR",
+      "bankname": "Deutsche Bank",
+      "bankcode": "30070024",
+      "balance": -5323.21,
+      "accessType": "HBCI",
+      "accountType": "SparCard",
+      "iban": "DE04300700240001234502",
+      "bic": "DEUTDEDBDUE"
+    }
+  ]

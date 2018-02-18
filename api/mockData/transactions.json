@@ -1,0 +1,36 @@
+[
+    {
+        "transferType": "Debit",
+        "date": "2018-01-23T00:00:00.000Z",
+        "beneficiary": "Amazon",
+        "status": "Successful",
+        "amount": "-30.00",
+        "accountNumber": "123456789-1"
+    },
+    {
+        "transferType": "Credit",
+        "date": "2018-01-21T00:00:00.000Z",
+        "beneficiary": "N/A",
+        "status": "Successful",
+        "amount": "2000.00",
+        "accountNumber": "123456789-1"
+    },
+    
+    {
+        "transferType": "Debit",
+        "date": "2018-01-21T00:00:00.000Z",
+        "beneficiary": "N/A",
+        "status": "Successful",
+        "amount": "-200.00",
+        "accountNumber": "123456789-2"
+    }
+    ,
+    {
+        "transferType": "Credit",
+        "date": "2017-01-21T00:00:00.000Z",
+        "beneficiary": "Khurram",
+        "status": "Successful",
+        "amount": "1000.00",
+        "accountNumber": "123456789-2"
+    }
+]
